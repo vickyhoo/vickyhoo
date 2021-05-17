@@ -1,6 +1,12 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ⚠️ UNDER CONSTRUCTION
 
+![Vickyhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyhoo&theme=react&show_icons=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **vickyhoo/vickyhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
