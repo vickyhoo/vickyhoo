@@ -3,6 +3,10 @@
 
 ![Vickyhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyhoo&theme=react&show_icons=true)
 
+---
+
+#### :bar_chart: Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   1 hr 28 mins    █████████▒░░░░░░░░░░░░░░░   37.62 % 
