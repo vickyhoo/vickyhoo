@@ -1,4 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vickyhoo.vickyhoo&left_color=black&right_color=cornflowerblue)
+
 ⚠️ UNDER CONSTRUCTION
 
 ![Vickyhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyhoo&theme=react&show_icons=true)
