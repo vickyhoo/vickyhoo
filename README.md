@@ -11,11 +11,16 @@
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Vue.js       8 hrs 33 mins   ███████████████████████░░   91.83 % 
-JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Vue.js       9 hrs 38 mins   ███████████████████████▓░   94.45 %
+JavaScript   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 
