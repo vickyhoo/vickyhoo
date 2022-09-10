@@ -13,10 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                     5 hrs 40 mins   ████████████████████▒░░░░   80.91 %
-JavaScript                 54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-Nginx configuration file   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Other                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Vue.js                     8 hrs 6 mins    ███████████████████▓░░░░░   78.61 %
+JavaScript                 1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Nginx configuration file   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JSON                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Other                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
