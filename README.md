@@ -103,15 +103,3 @@ API integrations, backend systems, data pipelines, and productionizing AI apps t
 at the demo stage.
 
 I work **async-first**, and do my best work with clear requirements and well-defined deliverables.
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vickyhoo&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyhoo&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-</details>
